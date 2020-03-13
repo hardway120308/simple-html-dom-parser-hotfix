@@ -1,0 +1,20 @@
+{
+    "name": "hardw/html-simple-dom-parser-hotfix",
+    "description": "This is a hotfix version of Simple HTML DOM Parser by @hardway120308",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.5",
+    "authors": [
+        {
+            "name": "Hardway Chen",
+            "email": "hardway120308@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "HtmlDomParser.php"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
