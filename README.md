@@ -23,7 +23,7 @@ Other usage is the same as the original version.
  
 If you need to learn Simple HTML Dom Parser. Please go to the [original version docs](https://simplehtmldom.sourceforge.io/manual.htm))
 
-This package was developed with version 1.5 of Simple HTML Dom Parser [latest version on Composer].
+This package was developed with version 1.5 of Simple HTML Dom Parser (latest version on Composer).
 
 ## Error reporting
 
