@@ -2,6 +2,8 @@
 
 This is a hotfix version of Simple HTML DOM Parser by @hardway120308.
 
+- Github URL：[https://github.com/hardway120308/simple-html-dom-parser-hotfix](https://github.com/hardway120308/simple-html-dom-parser-hotfix)
+
 ## Why you need it?
 
 if you use composer to install "Simple HTML Dom Parser"(sunra/php-simple-html-dom),You may find that he cannot work.
@@ -17,6 +19,22 @@ This release fixes two errors:
 - Cannot destruct simplehtmldom object
 > PHP error message like this: "Maximum execution time of 30 seconds exceeded"
 
+## How to install?
+
+This package can be installed on Composer.Here's how to do it:
+
+### Using Composer
+
+First, you need to install Composer,please visit [this webpage](https://getcomposer.org/download/).
+
+Then, execute the following instructions in the project directory:
+
+`composer init`
+
+`composer install simple-html-dom-parser-hotfix`
+
+Now you are ready to use Simple HTML DOM Parser Hotfix Version.
+
 ## How to use it?
 
 Other usage is the same as the original version.
@@ -27,7 +45,7 @@ This package was developed with version 1.5 of Simple HTML Dom Parser (latest ve
 
 ## Error reporting
 
-If you find some errors or bugs and you think it is a problem with HTML Simple DOM Parser, please add a issues to [Github](https://www.github.com/hardway120308).
+If you find some errors or bugs and you think it is a problem with HTML Simple DOM Parser, please add a issues to [Github](https://github.com/hardway120308/simple-html-dom-parser-hotfix).
 
 or, you can contact me:
 
